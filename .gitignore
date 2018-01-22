@@ -1,0 +1,6 @@
+_Store
+._.DS_Store
+.*
+!.gitignore
+scratch.py
+__pycache__
